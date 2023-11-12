@@ -2,8 +2,9 @@
 
 Colección de problemas de nivel medio para resolver con Python.
 
-En la rama _soluciones_ se encuentra una posible solución a cada uno de ellos.
-Además, se proporcionan casos de prueba para varios de ellos para comprobar que el código creado es correcto.
+En la rama _soluciones_ se encuentra una posible solución a cada uno de ellos. Además, se proporcionan casos de prueba para varios de ellos para comprobar que el código creado es correcto.
+
+> La solución propuesta sólo es una de las posibles soluciones. De hecho, casi con total seguridad, no sea ni la más eficiente o con el código más optimizado. Se han creado con una finalidad didáctica, para que puedan verse en acción diferentes opciones de un mismo escenario, por lo que alguna de ellas puede considerarse incluso un poco forzada.
 
 ## Consejos
 
